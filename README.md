@@ -1,1 +1,1 @@
-# TITANIC_SURVIVAL_CLASSIFICATION
+# titanic_survival_classification
